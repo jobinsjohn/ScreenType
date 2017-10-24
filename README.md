@@ -84,10 +84,6 @@ if ([UIScreen current] > ScreenTypeIPhone5) {
 
 You are welcome to fork and submit pull requests
 
-## Author
-
-Max Stein | [maxste.in](http://maxste.in) | [Twitter](https://twitter.com/maxsteinapps)
-
 ## License
 
 ScreenType is available under the MIT license. See the LICENSE file for more info.
