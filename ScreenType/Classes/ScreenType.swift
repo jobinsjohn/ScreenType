@@ -2,8 +2,8 @@
 //  ScreenType.swift
 //  ScreenType
 //
-//  Created by Stein, Maxwell on 10/11/17.
-//  Copyright © 2017 Maxwell Stein. All rights reserved.
+//  Created by Jobins John on 10/11/17.
+//  Copyright © 2017 Jobins. All rights reserved.
 //
 
 import UIKit
